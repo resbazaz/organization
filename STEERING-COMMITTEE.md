@@ -4,7 +4,7 @@ This document lists the members of the Organization's Governance Drafting Task F
 
 To be added to this list, a potential member must
 
-1. add their name to this document (see [README.md](./README.md) for details about how to do this if you're unfamiliar with git)
+1. add their name to this document (use the pencil icon at the top-right of this pane)
 2. submit a pull request
 
 **TWO** currently-sitting task force members must approve the pull request before the member can be added.
@@ -15,8 +15,9 @@ By adding your name to this list you are agreeing to abide by all Organization p
 | **NAME** | **Github Username** |
 | --- | --- |
 | [Steering Committee Member] | [github username] |
-|Val | @val-pf|
-|  --- | --- | --- |
+| Val | @val-pf |
+|  Alex Bigelow | @alex-r-bigelow |
+| --- | --- |
 
 ---
 Licensed under the [CC-BY 4.0 
