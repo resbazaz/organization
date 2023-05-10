@@ -1,16 +1,21 @@
 # Steering Committee
 
-This document lists the members of the Organization's Steering Committee.
+This document lists the members of the Organization's Governance Drafting Task Force.
 
-Voting members may be added once approved by the Steering Committee as described in
-**(TODO: we're rogue for now! This process should be described in the governance doc that we're writing!)**.
+To be added to this list, a potential member must
+
+1. add their name to this document (see [./README.md](for details about how to do this if you're unfamiliar with git))
+2. submit a pull request
+
+**TWO** currently-sitting task force members must approve the pull request before the member can be added.
+
 By adding your name to this list you are agreeing to abide by all Organization polices, including the existing
 [code of conduct]([./CODE-OF-CONDUCT.md](https://github.com/resbazaz/website/blob/gh-pages/codeOfConduct.md).
 
 | **NAME** | **Github Username** |
 | --- | --- |
 | [Steering Committee Member] | [github username] |
-|  Alex Bigelow | alex-r-bigelow | Stardog |
+|  --- | --- | --- |
 
 ---
 Licensed under the [CC-BY 4.0 
