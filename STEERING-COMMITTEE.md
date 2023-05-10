@@ -18,6 +18,7 @@ By adding your name to this list you are agreeing to abide by all Organization p
 | Val | @val-pf |
 |  Alex Bigelow | @alex-r-bigelow |
 | Heidi | @hidyverse |
+| Julian | @julianpistorius |
 | --- | --- |
 
 ---
