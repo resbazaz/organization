@@ -15,6 +15,7 @@ By adding your name to this list you are agreeing to abide by all Organization p
 | **NAME** | **Github Username** |
 | --- | --- |
 | [Steering Committee Member] | [github username] |
+|Val | @val-pf|
 |  --- | --- | --- |
 
 ---
