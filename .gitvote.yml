@@ -53,7 +53,7 @@ profiles:
     #   days    | day    | d
     #   weeks   | week   | w
     #
-    duration: 5m
+    duration: 1m
 
     # Pass threshold (required)
     #
@@ -83,9 +83,8 @@ profiles:
     #     - cynthia-sg
     #     - tegioz
     #
-    # allowed_voters:
-    #  teams: []
-    #  users: []
+    allowed_voters:
+      teams: governance-task-force
 
   # Additional configuration profiles
   #
