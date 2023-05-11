@@ -84,7 +84,8 @@ profiles:
     #     - tegioz
     #
     allowed_voters:
-      teams: governance-task-force
+      teams:
+        - governance-task-force
 
   # Additional configuration profiles
   #
