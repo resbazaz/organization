@@ -22,6 +22,7 @@ By adding your name to this list you are agreeing to abide by all Organization p
 |  Alex Bigelow | @alex-r-bigelow |
 | Heidi | @hidyverse |
 | Julian | @julianpistorius |
+| Lia | @lossanna |
 | --- | --- |
 
 ---
