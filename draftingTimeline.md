@@ -18,6 +18,8 @@ Putting this here for visibility; we should probably delete this file when it's 
         - ideally, a Github pull request that:
             - edits the timeline document
             - edits `.gitvote.yml` with an updated voting policy
+- May 26 deadline for gov committee to draft individual contriubtions
+    - Work together to merge contributions into v0.8
 - Friday, June 2
     - Initial draft community commentary period begins on governance v0.8
 - Friday, June 16
