@@ -12,6 +12,8 @@ ResBaz is committed to the following values:
 
 ## Governance
 
+***TODO: this is wrong!!!***
+
 ResBaz is governed by a small group of volunteers who are elected by the community. The board of directors is responsible for setting the overall direction of ResBaz and ensuring that it is managed in a responsible and transparent manner.
 
 ### Decision-making
