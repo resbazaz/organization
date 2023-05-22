@@ -14,8 +14,7 @@ ResBaz is committed to the following values:
 
 ***TODO: this is wrong!!!***
 
-ResBaz is governed by a small group of volunteers who are elected by the community. The board of directors is responsible for setting the overall direction of ResBaz and ensuring that it is managed in a responsible and transparent manner.
-
+ResBaz is governed by a small group of volunteers (the "steering committee") who are elected by the community. The steering committee is responsible for setting the overall direction of ResBaz and ensuring that it is managed in a responsible and transparent manner.
 ### Decision-making
 ResBaz strives to make decisions in a consensus-based manner. However, if consensus cannot be reached, decisions will be made by a majority vote of the board of directors.
 
