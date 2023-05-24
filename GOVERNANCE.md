@@ -25,7 +25,7 @@ ResBaz is committed to the following values:
 #### Annual Conference
 
 #### Coffee & Code
-
+ - Coffee and code will be held at a venue that works for most people in the #coffee-and-code slack channel.
 #### Hacky Hour
 
 ### Membership
