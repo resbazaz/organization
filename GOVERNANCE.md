@@ -54,7 +54,7 @@ Please see our official [ResBaz code of conduct](https://github.com/resbazaz/web
 
 ### Conflict resolution
 
-Please see our official conflict resolution policy within our code of conduct.
+[Please see our official conflict resolution policy within our code of conduct.]
 
 ### Intellectual property
 
