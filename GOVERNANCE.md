@@ -38,15 +38,15 @@ ResBaz communicates with the community through a variety of channels, including 
 
 #### Voting membership
 
-ResBaz strives to make decisions through community involvement with slack messages. By default, changes are approved without consensus from community.
+ResBaz strives to make decisions through community involvement with slack messages. By default, changes are approved when no one voices concerns within a period of time, following lazy consensus.
 
 ### Leadership
 
-ResBaz and it's events are led by a small group of volunteers.
+ResBaz and its events are typically not led, but organzined by a small group of self-selected volunteers.
 
 ### Funding
 
-ResBaz is funded by a variety of sources, including individual donations, corporate sponsorships, and grants. The board of directors is responsible for ensuring that ResBaz's finances are managed in a responsible and transparent manner.
+ResBaz is primarily based on volunteers donating time to ResBaz. Some events are occasionally funded by a variety of sources, including individual donations, university sponsorships, and grants. The steering committee is responsible for ensuring that ResBaz's finances are managed in a responsible and transparent manner.
 
 ### Code of conduct
 
@@ -58,11 +58,11 @@ Please see our official [ResBaz code of conduct](https://github.com/resbazaz/web
 
 ### Intellectual property
 
-All intellectual property created by ResBaz is owned by the community. The board of directors is responsible for managing the community's intellectual property in a responsible and transparent manner.
+All intellectual property created by ResBaz is owned by the community. All intellecutal property developed by instructors of the annual festival is not part of the intellectual property of ResBaz, but should be shared with an open access license. The steering committee is responsible for managing the community's intellectual property in a responsible and transparent manner.
 
 ### Termination
 
-ResBaz may be terminated by a two-thirds vote of the board of directors. In the event of termination, the board of directors will be responsible for ensuring that the community's assets are transferred to a new organization that is committed to the mission of ResBaz.
+ResBaz may be terminated by a unanimous vote of the steering committee. In the event of termination, the steering committee will be responsible for ensuring that the community's assets are transferred to a new organization that is committed to the mission of ResBaz.
 
 ### Amendments
 
