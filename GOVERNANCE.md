@@ -14,13 +14,14 @@ Please read more about our core mission [on our website](https://github.com/resb
 
 ResBaz is committed to the following values:
 
--   **Data science campaign**: We believe that research should be open and accessible to everyone.
+-   **Open (data) science**: We believe that research should be open and accessible to everyone.
 
--   **Collaborative conference**: We believe that the best research is done through collaboration.
+-   **Collaboration**: We believe that the best research is done through collaboration.
 
--   **Diverse and inclusive community**: We believe that a diverse and inclusive community is essential for innovation.
+-   **Diversity & Equity**: We believe that a diverse and inclusive community is essential for innovation.
 
 ### Community Programs
+ResBaz offers a variety of community-oriented events, including, but not limited to weekly meetups (Coffee & Code, Hacky Hour), and an annual conference. In addition, ResBaz maintains a slack channel, which allows participants to share data-science related information such as job opportunities, memes, event information, and others. Further, ResBaz maintains a website that is used to share information about ResBaz's community programs.
 
 #### Annual Conference
 
@@ -28,25 +29,25 @@ ResBaz AZ promotes digital literacy at the center of modern research. Our annual
 
 #### Coffee & Code
 
-At Coffee & Code, researchers come together to debug code, exchange programming ideas, foster a supportive community, and enjoy caffeiene. Coffee & Code operates on the principles of inclusivity, collaboration, and knowledge sharing, ensuring an exceptional experience for all participants. We strive to create an environment where every individual feels valued, empowered, and inspired to actively engage, resulting in a vibrant community that fosters innovation and elevates programming practices in research.
+At Coffee & Code, researchers come together to debug code, exchange programming ideas, foster a supportive community, and enjoy caffeine. Coffee & Code operates on the principles of inclusivity, collaboration, and knowledge sharing. We strive to create an environment where every individual feels valued, empowered, and inspired to engage in meaningful exchanges, resulting in a vibrant community that fosters innovation and elevates programming practices in research.
 
-Coffee & Code aims to position itself as a conversational group over a help desk. When troubleshooting inquiries inevitability arise, it is up to each individual to choose to volunteer their time. We encourage our community members to be familiar with other data science resources online or on campus, just in case.
+Coffee & Code is intended to be a conversational group over a help desk. We do not provide services or guarantee solutions, but we might be able to help those seeking advice. When troubleshooting inquiries arise, it is up to each individual participant to choose to volunteer their time. Familiarity with other data science resources online or on campus is encouraged, but not required.
 
 -   Coffee & Code will be held at a venue that works for most members of the #coffee-and-code slack channel
--   Coffee & Code will be held preferably in the mornings, at a time that works for most members of the #coffee-and-code slack channel
+-   Coffee & Code will be held in the mornings, at a time that works for most members of the #coffee-and-code slack channel
 
 #### Hacky Hour
 
 Hacky Hour offers a space for networking with data science professionals and researchers. Patrons engage in meaningful discussions, seek help, and learn from each other's data-related expertises. We encourage respectful and collaborative interaction among participants.
 
-Hacky Hour aims to position itself as a support group over a help desk. When troubleshooting inquiries inevitability arise, it is up to each individual to choose to volunteer their time. We encourage our community members to be familiar with other data science resources online or on campus, just in case.
+Hacky Hour is intended as a support group over a help desk. When troubleshooting inquiries inevitability arise, it is up to each individual to choose to volunteer their time. We encourage our community members to be familiar with other data science resources online or on campus, just in case.
 
 -   Hacky Hour will be held at a venue that works for most members of the #hacky-hour slack channel
 -   Hacky Hour will be held preferably during the hours 4-7pm
 
 ### Membership
 
-ResBaz is a grassroots community of members based in Tucson, Arizona, USA.
+ResBaz is a grassroots community of members based in Tucson, Arizona, USA. [how do people become members?]
 
 #### Communication
 
@@ -96,7 +97,7 @@ The formation process may involve open calls for volunteers and nominations by t
 
 ### Termination
 
-A task force may be terminated by a unanimous vote from the ResBaz board. The termination of a task force also terminates the tasked event. We encourage members of task forces to participate regularly in their respective events.
+A task force may be terminated by a unanimous vote from the ResBaz board. Members of a task force should contribute and participate regularly in their respective event.
 
 ### Current task forces
 
