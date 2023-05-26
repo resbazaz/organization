@@ -24,9 +24,25 @@ ResBaz is committed to the following values:
 
 #### Annual Conference
 
+ResBaz AZ promotes digital literacy at the center of modern research. Our annual festival is a dynamic and interactive event that brings together researchers, educators, industry professionals, and enthusiasts. The ResBaz AZ annual festival serves as a platform for showcasing the individuals who work with data. Through its inclusive and forward-thinking environment, the festival inspires and empowers individuals to embrace community, digital tools, and teaching, ultimately shaping a more digitally fluent society.
+
 #### Coffee & Code
- - Coffee and code will be held at a venue that works for most people in the #coffee-and-code slack channel.
+
+At Coffee & Code, researchers come together to debug code, exchange programming ideas, foster a supportive community, and enjoy caffeiene. Coffee & Code operates on the principles of inclusivity, collaboration, and knowledge sharing, ensuring an exceptional experience for all participants. We strive to create an environment where every individual feels valued, empowered, and inspired to actively engage, resulting in a vibrant community that fosters innovation and elevates programming practices in research.
+
+Coffee & Code aims to position itself as a conversational group over a help desk. When troubleshooting inquiries inevitability arise, it is up to each individual to choose to volunteer their time. We encourage our community members to be familiar with other data science resources online or on campus, just in case.
+
+-   Coffee & Code will be held at a venue that works for most members of the #coffee-and-code slack channel
+-   Coffee & Code will be held preferably in the mornings, at a time that works for most members of the #coffee-and-code slack channel
+
 #### Hacky Hour
+
+Hacky Hour offers a space for networking with data science professionals and researchers. Patrons engage in meaningful discussions, seek help, and learn from each other's data-related expertises. We encourage respectful and collaborative interaction among participants.
+
+Hacky Hour aims to position itself as a support group over a help desk. When troubleshooting inquiries inevitability arise, it is up to each individual to choose to volunteer their time. We encourage our community members to be familiar with other data science resources online or on campus, just in case.
+
+-   Hacky Hour will be held at a venue that works for most members of the #hacky-hour slack channel
+-   Hacky Hour will be held preferably during the hours 4-7pm
 
 ### Membership
 
