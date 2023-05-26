@@ -84,22 +84,34 @@ ResBaz may be terminated by a unanimous vote of the steering committee. In the e
 
 Amendments to this governance will take place via [github issues?]
 
-## Committees and Task Forces
+## Task Forces
+
+ResBaz task forces operate as a dedicated team, working together to steer ResBaz affiliated events towards the defined objectives. Each task force acts as a catalyst for driving change and advancing digital literacy within the respective event.
 
 ### Formation
+
+The formation process may involve open calls for volunteers and nominations by the ResBaz [board]. Interested members of ResBaz with willingness to contribute will be accepted on ResBaz task forces.
 
 ### Operations
 
 ### Termination
 
-### Current committees
+A task force may be terminated by a unanimous vote from the ResBaz board. The termination of a task force also terminates the tasked event. We encourage members of task forces to participate regularly in their respective events.
 
-#### Annual Conference
+### Current task forces
+
+#### [need Annual Conference task force]
+
+The conference task force is not tasked with planning the conference. Rather, the conference task force will oversee the creation of a conference planning committee, keeping ResBaz missions within planning conversations.
 
 #### [need Coffee & Code]
 
+The Coffee & Code task force is made up of [names], [names], [names], and [names].
+
 #### [need Hacky Hour]
 
-## ResBaz Leadership
+The Hacky Hour task force is made up of [names], [names], [names], and [names].
+
+## ResBaz Board
 
 ### Roles and responsibilities
