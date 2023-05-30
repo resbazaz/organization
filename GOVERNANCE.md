@@ -112,7 +112,7 @@ ResBaz committees will operate independently as best serves the group. A GitHub 
 
 ### Termination
 
-A committee may be terminated by a unanimous vote from the executive committee. Members of a committee should contribute and participate regularly in their respective event.
+A committee may be terminated by a unanimous vote from the executive committee. Members of a committee should contribute and participate regularly in their respective event. Committee members who have not been active in the past 12 months will be asked if they want to become emeritus members and recant their commit and voting rights until they become active again. The list of committee members, active and emeritus (with dates at which they became active) is public on the ResBaz website.
 
 The executive committee can be terminated by [help].
 
@@ -165,8 +165,6 @@ The following responsibilities and powers belong to the executive committee (tec
 ### Eligibility and composition
 
 All voting members of ResBaz are eligible for the executive committee.
-
-Executive committee members who have not been active in the past 12 months will be asked if they want to become emeritus members and recant their commit and voting rights until they become active again. The list of committee members, active and emeritus (with dates at which they became active) is public on the ResBaz website.
 
 ### Limitations on Company Representation
 
