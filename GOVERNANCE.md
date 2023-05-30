@@ -166,6 +166,8 @@ The following responsibilities and powers belong to the executive committee (tec
 
 All voting members of ResBaz are eligible for the executive committee.
 
+Executive committee members who have not been active in the past 12 months will be asked if they want to become emeritus members and recant their commit and voting rights until they become active again. The list of committee members, active and emeritus (with dates at which they became active) is public on the ResBaz website.
+
 ### Limitations on Company Representation
 
 No more than [TODO: Number] executive committee seats may be held by employees of the same organization (or conglomerate, in the case of companies owning each other).
