@@ -21,6 +21,7 @@ ResBaz is committed to the following values:
 -   **Diversity & Equity**: We believe that a diverse and inclusive community is essential for innovation.
 
 ### Community Programs
+
 ResBaz offers a variety of community-oriented events, including, but not limited to weekly meetups (Coffee & Code, Hacky Hour), and an annual conference. In addition, ResBaz maintains a slack channel, which allows participants to share data-science related information such as job opportunities, memes, event information, and others. Further, ResBaz maintains a website that is used to share information about ResBaz's community programs.
 
 #### Annual Conference
@@ -59,7 +60,7 @@ ResBaz strives to make decisions through community involvement with slack messag
 
 ### Leadership
 
-ResBaz and its events are typically not led, but organzined by a small group of self-selected volunteers.
+ResBaz and its events are typically not led, but organized by a small group of self-selected volunteers.
 
 ### Funding
 
@@ -85,34 +86,42 @@ ResBaz may be terminated by a unanimous vote of the steering committee. In the e
 
 Amendments to this governance will take place via [github issues?]
 
-## Task Forces
+## Committees
 
-ResBaz task forces operate as a dedicated team, working together to steer ResBaz affiliated events towards the defined objectives. Each task force acts as a catalyst for driving change and advancing digital literacy within the respective event.
+ResBaz committees operate as dedicated teams, working together to steer ResBaz affiliated events towards the defined objectives. Each committee acts as a catalyst for driving change and advancing digital literacy within the respective event.
 
 ### Formation
 
-The formation process may involve open calls for volunteers and nominations by the ResBaz [board]. Interested members of ResBaz with willingness to contribute will be accepted on ResBaz task forces.
+The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on committees.
 
 ### Operations
 
 ### Termination
 
-A task force may be terminated by a unanimous vote from the ResBaz board. Members of a task force should contribute and participate regularly in their respective event.
+A committee may be terminated by a unanimous vote from the executive committee. Members of a committee should contribute and participate regularly in their respective event.
 
-### Current task forces
+The executive committee can be terminated by [help].
 
-#### [need Annual Conference task force]
+### Current committees
+
+#### Executive committee
+
+[info about committee]
+
+See ResBaz Leadership below for more detail.
+
+#### Conference committee
 
 The conference task force is not tasked with planning the conference. Rather, the conference task force will oversee the creation of a conference planning committee, keeping ResBaz missions within planning conversations.
 
-#### [need Coffee & Code]
+#### Coffee & Code committee
 
 The Coffee & Code task force is made up of [names], [names], [names], and [names].
 
-#### [need Hacky Hour]
+#### Hacky Hour committee
 
 The Hacky Hour task force is made up of [names], [names], [names], and [names].
 
-## ResBaz Board
+## ResBaz Leadership
 
 ### Roles and responsibilities
