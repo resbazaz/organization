@@ -84,7 +84,7 @@ Please see our [official conflict resolution policy] within our code of conduct.
 
 ### Intellectual property
 
-All intellectual property created by ResBaz is owned by the community. All intellecutal property developed by instructors of the annual festival is not part of the intellectual property of ResBaz, but should be shared with an open access license. The steering committee is responsible for managing the community's intellectual property in a responsible and transparent manner.
+All intellectual property created by ResBaz is owned by the community. All intellectual property developed by instructors of the annual festival is not part of the intellectual property of ResBaz, but should be shared with an open access license. The steering committee is responsible for managing the community's intellectual property in a responsible and transparent manner.
 
 ### Termination
 
@@ -94,7 +94,7 @@ ResBaz may be terminated by a unanimous vote of the steering committee. In the e
 
 The amendment process to this governance allows for updates to the governing policies, procedures, and structures. Proposed amendments can be submitted by community members, reviewed by a designated ad-hoc committee, and require a majority vote for approval, ensuring a dynamic and responsive governance framework.
 
-Amendments to this governance should be sumitted via the GitHub issues of the proper repository. Amendments are accepted with majority consent of the committee (executive or ad-hoc, as delegated).
+Amendments to this governance should be submitted via the GitHub issues of the proper repository. Amendments are accepted with majority consent of the committee (executive or ad-hoc, as delegated).
 
 ## Committees
 
