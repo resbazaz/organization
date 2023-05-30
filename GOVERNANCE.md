@@ -58,6 +58,8 @@ ResBaz communicates with the community through a variety of channels, including 
 
 ResBaz strives to make decisions through community involvement with slack messages. By default, changes are approved when no one voices concerns within a period of time, following lazy consensus.
 
+Anyone who has at least [TODO:Number] contributions in the last 12 months is eligible to vote in the executive committee elections. Contributions are defined on GitHub as opening PRs, reviewing and commenting on PRs, and opening and commenting on issues. Other contributions may also look like helping people on community forums, participating in committees, and other efforts that help advance the ResBaz mission.
+
 ### Leadership
 
 ResBaz and its events are typically not led, but organized by a small group of self-selected volunteers.
@@ -92,7 +94,7 @@ ResBaz may be terminated by a unanimous vote of the steering committee. In the e
 
 The amendment process to this governance allows for updates to the governing policies, procedures, and structures. Proposed amendments can be submitted by community members, reviewed by a designated ad-hoc committee, and require a majority vote for approval, ensuring a dynamic and responsive governance framework.
 
-Amendments to this governance should be sumitted via the GitHub issues of the proper repository.
+Amendments to this governance should be sumitted via the GitHub issues of the proper repository. Amendments are accepted with majority consent of the committee (executive or ad-hoc, as delegated).
 
 ## Committees
 
@@ -120,7 +122,7 @@ The executive committee can be terminated by [help].
 
 The executive committee organizes the ResBaz community and event governance.
 
-The executive committee is made up of [names], [names], [names], and [names].
+The executive committee is made up of [names], [names], [name], [names], and [names].
 
 See ResBaz Leadership below for more detail.
 
@@ -141,3 +143,33 @@ The Hacky Hour committee is made up of [names], [names], [names], and [names].
 ## ResBaz Leadership
 
 ### Roles and responsibilities
+
+The following responsibilities and powers belong to the executive committee (technical governance is expected to be performed by the committee members of the various events and projects):
+
+-   Delegate ownership of, responsibility for and authority over ResBaz community events and projects to specific committees.
+
+-   Define, evolve, and defend the vision, mission and the values of ResBaz community.
+
+-   Define and evolve governance structures and policies.
+
+-   Act as a final escalation point for disputes in any committee.
+
+-   Request funds and other support from sponsors
+
+-   Coordinate the usage of the ResBaz brand
+
+-   Control and delegate access to and establish processes regarding all ResBaz community, event, or project repositories, resources, and assets.
+
+### Meetings
+
+### Eligibility and composition
+
+All voting members of ResBaz are eligible for the executive committee.
+
+### Limitations on Company Representation
+
+No more than [TODO: Number] executive committee seats may be held by employees of the same organization (or conglomerate, in the case of companies owning each other).
+
+If an election results in greater than [TODO: Number] employees of the same organization being selected, the lowest vote getters from any particular employer will be removed until representation on the executive committee is down to [TODO: Number].
+
+If employers change because of job changes, acquisitions, or other events, in a way that would yield too many seats being held by employees of the same organization, sufficient members of the executive committee must resign until only [TODO: Number] employees of the same employer are left. If it is impossible to find sufficient members to resign, all employees of that organization will be removed and new special elections held.
