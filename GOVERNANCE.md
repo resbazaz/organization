@@ -48,11 +48,11 @@ Hacky Hour is intended as a support group over a help desk. When troubleshooting
 
 ### Membership
 
-ResBaz is a grassroots community of members based in Tucson, Arizona, USA. [how do people become members?]
+ResBaz is a grassroots community of members based in Tucson, Arizona, USA. Membership in ResBaz is self-appointed.
 
 #### Communication
 
-ResBaz communicates with the community through a variety of channels, including its website, slack, gittr, social media, and with contributions directly to the [ResBaz GitHub](https://github.com/resbazaz).
+ResBaz communicates with the community through a variety of channels, including its [website](https://researchbazaar.arizona.edu/), slack, [gittr](https://app.gitter.im/#/room/#resbaz_Arizona:gitter.im), [social media](https://twitter.com/resbazaz), and with contributions directly to the [ResBaz GitHub](https://github.com/resbazaz).
 
 #### Voting membership
 
@@ -68,11 +68,17 @@ ResBaz is primarily based on volunteers donating time to ResBaz. Some events are
 
 ### Code of conduct
 
+ResBaz is a community intended for networking and collaboration as well as learning. We value the participation of every member of the scientific community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the event and in interactions online associated with ResBaz.
+
+**To report a breach of the code of conduct, please email us at resbazaz[at]gmail.com**
+
 Please see our official [ResBaz code of conduct](https://github.com/resbazaz/website/blob/gh-pages/codeOfConduct.md).
 
 ### Conflict resolution
 
-[Please see our official conflict resolution policy within our code of conduct.]
+The conflict resolution policy for the ResBaz community promotes open communication and collaboration, encouraging members to address conflicts respectfully and seek resolution through mediation or arbitration if necessary, with the ultimate goal of maintaining a harmonious community environment.
+
+Please see our [official conflict resolution policy] within our code of conduct.
 
 ### Intellectual property
 
@@ -84,17 +90,23 @@ ResBaz may be terminated by a unanimous vote of the steering committee. In the e
 
 ### Amendments
 
-Amendments to this governance will take place via [github issues?]
+The amendment process to this governance allows for updates to the governing policies, procedures, and structures. Proposed amendments can be submitted by community members, reviewed by a designated ad-hoc committee, and require a majority vote for approval, ensuring a dynamic and responsive governance framework.
+
+Amendments to this governance should be sumitted via the GitHub issues of the proper repository.
 
 ## Committees
 
 ResBaz committees operate as dedicated teams, working together to steer ResBaz affiliated events towards the defined objectives. Each committee acts as a catalyst for driving change and advancing digital literacy within the respective event.
 
-### Formation
+ResBaz committees are either standing or ad-hoc. Ad-hoc committees are charged by the executive committee, which is a standing committee, for short-term projects and events.
 
-The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on committees.
+### Formation of ad-hoc committees
+
+The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on ad-hoc committees.
 
 ### Operations
+
+ResBaz committees will operate independently as best serves the group. A GitHub project is created for each committee to serve as a resource for transparent project management.
 
 ### Termination
 
@@ -102,25 +114,29 @@ A committee may be terminated by a unanimous vote from the executive committee. 
 
 The executive committee can be terminated by [help].
 
-### Current committees
+### Current standing committees
 
 #### Executive committee
 
-[info about committee]
+The executive committee organizes the ResBaz community and event governance.
+
+The executive committee is made up of [names], [names], [names], and [names].
 
 See ResBaz Leadership below for more detail.
 
 #### Conference committee
 
-The conference task force is not tasked with planning the conference. Rather, the conference task force will oversee the creation of a conference planning committee, keeping ResBaz missions within planning conversations.
+The conference task force is tasked with planning the conference, keeping ResBaz missions within planning conversations.
+
+The conference committee is made up of [names], [names], [names], and [names].
 
 #### Coffee & Code committee
 
-The Coffee & Code task force is made up of [names], [names], [names], and [names].
+The Coffee & Code committee is made up of [names], [names], [names], and [names].
 
 #### Hacky Hour committee
 
-The Hacky Hour task force is made up of [names], [names], [names], and [names].
+The Hacky Hour committee is made up of [names], [names], [names], and [names].
 
 ## ResBaz Leadership
 
