@@ -32,7 +32,7 @@ ResBaz AZ promotes digital literacy at the center of modern research. Our annual
 
 At Coffee & Code, researchers come together to debug code, exchange programming ideas, foster a supportive community, and enjoy caffeine. Coffee & Code operates on the principles of inclusivity, collaboration, and knowledge sharing. We strive to create an environment where every individual feels valued, empowered, and inspired to engage in meaningful exchanges, resulting in a vibrant community that fosters innovation and elevates programming practices in research.
 
-Coffee & Code is intended to be a conversational group over a help desk. We do not provide services or guarantee solutions, but we might be able to help those seeking advice. When troubleshooting inquiries arise, it is up to each individual participant to choose to volunteer their time. Familiarity with other data science resources online or on campus is encouraged, but not required.
+Coffee & Code is intended to be a conversational group - not a help desk. We do not provide services or guarantee solutions, but we might be able to help those seeking advice. When troubleshooting inquiries arise, it is up to each individual participant to choose to volunteer their time. Familiarity with other data science resources online or on campus is encouraged, but not required.
 
 -   Coffee & Code will be held at a venue that works for most members of the #coffee-and-code slack channel
 -   Coffee & Code will be held in the mornings, at a time that works for most members of the #coffee-and-code slack channel
@@ -41,7 +41,7 @@ Coffee & Code is intended to be a conversational group over a help desk. We do n
 
 Hacky Hour offers a space for networking with data science professionals and researchers. Patrons engage in meaningful discussions, seek help, and learn from each other's data-related expertises. We encourage respectful and collaborative interaction among participants.
 
-Hacky Hour is intended as a support group over a help desk. When troubleshooting inquiries inevitability arise, it is up to each individual to choose to volunteer their time. We encourage our community members to be familiar with other data science resources online or on campus, just in case.
+Hacky Hour is intended as a support group - not a help desk. When troubleshooting inquiries inevitability arise, it is up to each individual to choose to volunteer their time. We encourage our community members to be familiar with other data science resources online or on campus, just in case.
 
 -   Hacky Hour will be held at a venue that works for most members of the #hacky-hour slack channel
 -   Hacky Hour will be held preferably during the hours 4-7pm
