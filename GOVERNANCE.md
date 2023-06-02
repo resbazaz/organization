@@ -128,7 +128,7 @@ See ResBaz Leadership below for more detail.
 
 #### Conference committee
 
-The conference task force is tasked with planning the conference, keeping ResBaz missions within planning conversations.
+The conference committee is responsible for planning the conference, focusing on the ResBaz mission within planning conversations.
 
 The conference committee is made up of [names], [names], [names], and [names].
 
@@ -166,7 +166,7 @@ The following responsibilities and powers belong to the executive committee (tec
 
 All voting members of ResBaz are eligible for the executive committee.
 
-### Limitations on Company Representation
+### Limitations on Organizational Representation
 
 No more than [TODO: Number] executive committee seats may be held by employees of the same organization (or conglomerate, in the case of companies owning each other).
 
