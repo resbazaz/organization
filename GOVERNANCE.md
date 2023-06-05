@@ -122,7 +122,7 @@ The executive committee can be terminated by [help].
 
 The executive committee organizes the ResBaz community and event governance.
 
-The executive committee is made up of [names], [names], [name], [names], and [names].
+The executive committee is made up of [names], [names], [names], [names], and [names].
 
 See ResBaz Leadership below for more detail.
 
