@@ -56,9 +56,7 @@ ResBaz communicates with the community through a variety of channels, including 
 
 #### Voting membership
 
-ResBaz strives to make decisions through community involvement with slack messages. By default, changes are approved when no one voices concerns within a period of time, following lazy consensus.
-
-Anyone who has at least [TODO:Number] contributions in the last 12 months is eligible to vote in the executive committee elections. Contributions are defined on GitHub as opening PRs, reviewing and commenting on PRs, and opening and commenting on issues. Other contributions may also look like helping people on community forums, participating in committees, and other efforts that help advance the ResBaz mission.
+ResBaz strives to make decisions through community involvement with slack messages. By default, changes are approved when no one voices concerns within a period of time, following [lazy consensus](https://community.apache.org/committers/lazyConsensus.html).
 
 ### Leadership
 
@@ -66,7 +64,7 @@ ResBaz and its events are typically not led, but organized by a small group of s
 
 ### Funding
 
-ResBaz is primarily based on volunteers donating time to ResBaz. Some events are occasionally funded by a variety of sources, including individual donations, university sponsorships, and grants. The executive committee is responsible for ensuring that ResBaz's finances are managed in a responsible and transparent manner.
+ResBaz is primarily based on volunteers donating time to ResBaz. Some events are occasionally funded by a variety of sources, including individual donations, university sponsorships, and grants. Each committee is responsible for ensuring their respective events are funded. The executive committee oversees the responsible management of ResBaz's gross finances in a transparent manner.
 
 ### Code of conduct
 
@@ -92,7 +90,7 @@ ResBaz may be terminated by a unanimous vote of the executive committee. In the 
 
 ### Amendments
 
-The amendment process to this governance allows for updates to the governing policies, procedures, and structures. Proposed amendments can be submitted by community members, reviewed by a designated ad-hoc committee, and require a majority vote for approval, ensuring a dynamic and responsive governance framework.
+The amendment process to this governance allows for updates to the governing policies, procedures, and structures. Proposed amendments can be submitted by community members, are reviewed by a designated ad-hoc committee, and will require a majority vote by the delegaated committee for approval, ensuring a dynamic and responsive governance framework.
 
 Amendments to this governance should be submitted via the GitHub issues of the proper repository. Amendments are accepted with majority consent of the committee (executive or ad-hoc, as delegated).
 
@@ -100,7 +98,7 @@ Amendments to this governance should be submitted via the GitHub issues of the p
 
 ResBaz committees operate as dedicated teams, working together to steer ResBaz affiliated events towards the defined objectives. Each committee acts as a catalyst for driving change and advancing digital literacy within the respective event.
 
-ResBaz committees are either standing or ad-hoc. Ad-hoc committees are charged by the executive committee, which is a standing committee, for short-term projects and events.
+ResBaz committees are either standing or ad-hoc. Ad-hoc committees are charged by the community for short-term projects and events.
 
 ### Formation of ad-hoc committees
 
@@ -114,17 +112,17 @@ ResBaz committees will operate independently as best serves the group. A GitHub 
 
 A committee may be terminated by a unanimous vote from the executive committee. Members of a committee should contribute and participate regularly in their respective event. Committee members who have not been active in the past 12 months will be asked if they want to become emeritus members and recant their commit and voting rights until they become active again. The list of committee members, active and emeritus (with dates at which they became active) is public on the ResBaz website.
 
-The executive committee can be terminated by [help].
+The executive committee can be terminated by unanimous vote of all non-executive committee members, standing and ad-hoc.
 
 ### Current standing committees
 
 #### Executive committee
 
-The executive committee organizes the ResBaz community and event governance.
+The executive committee, made up of current members of all other standing committees, organizes the ResBaz community and guides strategic planning. Thus, the executive committee is sensitive to the needs and wishes of each standing committee, while also containing non-partisan ResBaz community members from other event committees.
 
-The executive committee is made up of [names], [names], [name], [names], and [names].
+The current executive committee is made up of [names], [names], [name], [names], and [names].
 
-See ResBaz Leadership below for more detail.
+See ResBaz Leadership below for more detail on tasks overseen by the executive committee.
 
 #### Conference committee
 
@@ -144,32 +142,38 @@ The Hacky Hour committee is made up of [names], [names], [names], and [names].
 
 ### Roles and responsibilities
 
-The following responsibilities and powers belong to the executive committee (technical governance is expected to be performed by the committee members of the various events and projects):
+The following responsibilities and tasks shall be organized by executive committee members (technical governance is expected to be performed by the committee members of the various events and projects):
 
--   Delegate ownership of, responsibility for and authority over ResBaz community events and projects to specific committees.
+Social
 
--   Define, evolve, and defend the vision, mission and the values of ResBaz community.
-
--   Define and evolve governance structures and policies.
-
--   Act as a final escalation point for disputes in any committee.
-
--   Request funds and other support from sponsors
+-   Define, evolve, and defend the vision, mission and the values of ResBaz community through clear central governance
 
 -   Coordinate the usage of the ResBaz brand
 
--   Control and delegate access to and establish processes regarding all ResBaz community, event, or project repositories, resources, and assets.
+-   Act as a central point of contact for ResBaz
+
+-   Act as a final escalation point for disputes in any committee, community conflict
+
+Technical
+
+-   Control access to ResBaz accounts (e.g. GitHub, email, Meetup, Slack)
+
+-   Maintain ownership of ResBaz domain names
+
+-   Manage central event data (e.g. festival attendance records, feedback, membership data)
+
+-   Oversee ResBaz's financial management (Open Collective)
+
+-   Negotiate contracts on behalf of the community
 
 ### Meetings
 
 ### Eligibility and composition
 
-All voting members of ResBaz are eligible for the executive committee.
+All current members of ResBaz committees are eligible for the executive committee. A minimum of one and up to two members of each (standing or ad-hoc) ResBaz committee may join the executive committee for any length of time, given they are still a member of the respective event committee. For example, given three standing ResBaz committes, an executive committee of three to six members is needed.
+
+Volunteers with appreciable time to participate will be included in the executive committee, rather, individual committees may form processes for electing executive committee members.
 
 ### Limitations on Organizational Representation
 
-No more than [TODO: Number] executive committee seats may be held by employees of the same organization (or conglomerate, in the case of companies owning each other).
-
-If an election results in greater than [TODO: Number] employees of the same organization being selected, the lowest vote getters from any particular employer will be removed until representation on the executive committee is down to [TODO: Number].
-
-If employers change because of job changes, acquisitions, or other events, in a way that would yield too many seats being held by employees of the same organization, sufficient members of the executive committee must resign until only [TODO: Number] employees of the same employer are left. If it is impossible to find sufficient members to resign, all employees of that organization will be removed and new special elections held.
+No more than 70% of seats on the executive committee may be held by employees of the same organization (or conglomerate, in the case of companies owning each other). If it is impossible to find sufficient members to resign, all employees of that organization will be removed and new committees will be formed through random selection of active event participants.
