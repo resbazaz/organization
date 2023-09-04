@@ -82,7 +82,7 @@ ResBaz is a community intended for networking and collaboration as well as learn
 
 -   Make ResBaz events welcoming and friendly for all
 
-**To report a breach of the code of conduct, please email us at resbazaz[at]gmail.com**
+**To report a breach of the code of conduct, please email us at ResBazAZ[at]gmail.com**
 
 Violation of the code of conduct will be handeled with the sole discretion of the event committee. If a participant engages in behavior that violates this code of conduct, event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund of any fee that may have been levied.
 
@@ -112,7 +112,7 @@ ResBaz committees are either standing or ad-hoc. Ad-hoc committees are charged b
 
 ### Formation of ad-hoc committees
 
-The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on ad-hoc committees.
+The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on ad-hoc committees. Contact ResBaz committees by email with the following structure: committeeName.**ResBazAZ[at]gmail.com**. The executive committee can be reached at **ResBazAZ[at]gmail.com**
 
 ### Operations
 
@@ -130,23 +130,15 @@ The executive committee can be terminated by unanimous vote of all non-executive
 
 The executive committee, made up of current members of all other standing committees, organizes the ResBaz community and guides strategic planning. Thus, the executive committee is sensitive to the needs and wishes of each standing committee, while also containing non-partisan ResBaz community members from other event committees.
 
-The current executive committee is made up of [names], [names], [name], [names], and [names].
-
 See ResBaz Leadership below for more detail on tasks overseen by the executive committee.
 
 #### Conference committee
 
 The conference committee is responsible for planning the conference, focusing on the ResBaz mission within planning conversations.
 
-The conference committee is made up of [names], [names], [names], and [names].
-
 #### Coffee & Code committee
 
-The Coffee & Code committee is made up of [names], [names], [names], and [names].
-
 #### Hacky Hour committee
-
-The Hacky Hour committee is made up of [names], [names], [names], and [names].
 
 ## ResBaz Leadership
 
