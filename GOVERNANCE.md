@@ -70,6 +70,7 @@ ResBaz is primarily based on volunteers donating time to ResBaz. Some events are
 
 ResBaz is a community intended for networking and collaboration as well as learning. We value the participation of every member of the data science community. We strive for all attendees at our events to have an enjoyable and fulfilling experience. Accordingly all attendees at our events (as well as participants in online interactions associated with ResBaz) are expected to show respect and courtesy to each other.
 
+
 -   ResBaz is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of text editor. **We do not tolerate harassment of participants in any form.**
 
 -   Individuals asked to stop any harassing behavior are expected to comply immediately
@@ -86,9 +87,11 @@ ResBaz is a community intended for networking and collaboration as well as learn
 
 Violation of the code of conduct will be handeled with the sole discretion of the event committee. If a participant engages in behavior that violates this code of conduct, event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund of any fee that may have been levied.
 
+
 ### Conflict resolution
 
 The conflict resolution policy for the ResBaz community promotes open communication and collaboration, encouraging members to address conflicts respectfully and seek resolution through mediation or arbitration if necessary, with the ultimate goal of maintaining a harmonious community environment.
+
 
 ### Intellectual property
 
