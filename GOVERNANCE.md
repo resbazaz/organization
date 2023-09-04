@@ -90,8 +90,6 @@ Violation of the code of conduct will be handeled with the sole discretion of th
 
 The conflict resolution policy for the ResBaz community promotes open communication and collaboration, encouraging members to address conflicts respectfully and seek resolution through mediation or arbitration if necessary, with the ultimate goal of maintaining a harmonious community environment.
 
-Please see our [official conflict resolution policy] within our code of conduct.
-
 ### Intellectual property
 
 All intellectual property created by ResBaz is owned by the community. All intellectual property developed by instructors of the annual festival is not part of the intellectual property of ResBaz, but should be shared with an open access license. The executive committee is responsible for managing the community's intellectual property in a responsible and transparent manner.
