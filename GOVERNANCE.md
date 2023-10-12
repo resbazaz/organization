@@ -115,7 +115,7 @@ ResBaz committees are either standing or ad-hoc. Ad-hoc committees are charged b
 
 ### Formation of ad-hoc committees
 
-The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on ad-hoc committees. Contact ResBaz committees by email with the following structure: committeeName.**ResBazAZ[at]gmail.com**. The executive committee can be reached at **ResBazAZ[at]gmail.com**
+The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on ad-hoc committees. Contact ResBaz committees by email with the following structure: **ResBazAZ+CommiteeName[at]gmail.com**. The executive committee can be reached at **ResBazAZ[at]gmail.com**
 
 ### Operations
 
@@ -139,9 +139,15 @@ See ResBaz Leadership below for more detail on tasks overseen by the executive c
 
 The conference committee is responsible for planning the conference, focusing on the ResBaz mission within planning conversations.
 
+Email: ResBazAZ+Conference[at]gmail.com
+
 #### Coffee & Code committee
 
+Email: ResBazAZ+CoffeeAndCode[at]gmail.com
+
 #### Hacky Hour committee
+
+Email: ResBazAZ+HackyHour[at]gmail.com
 
 ## ResBaz Leadership
 
