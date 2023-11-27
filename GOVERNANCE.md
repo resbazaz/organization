@@ -70,15 +70,28 @@ ResBaz is primarily based on volunteers donating time to ResBaz. Some events are
 
 ResBaz is a community intended for networking and collaboration as well as learning. We value the participation of every member of the data science community. We strive for all attendees at our events to have an enjoyable and fulfilling experience. Accordingly all attendees at our events (as well as participants in online interactions associated with ResBaz) are expected to show respect and courtesy to each other.
 
-**To report a breach of the code of conduct, please email us at resbazaz[at]gmail.com**
 
-Please see our official [ResBaz code of conduct](https://github.com/resbazaz/website/blob/gh-pages/codeOfConduct.md).
+-   ResBaz is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of text editor. **We do not tolerate harassment of participants in any form.**
+
+-   Individuals asked to stop any harassing behavior are expected to comply immediately
+
+-   Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate
+
+-   Be kind to others
+
+-   Do not insult or put down other attendees
+
+-   Make ResBaz events welcoming and friendly for all
+
+**To report a breach of the code of conduct, please email us at ResBazAZ[at]gmail.com**
+
+Violation of the code of conduct will be handeled with the sole discretion of the event committee. If a participant engages in behavior that violates this code of conduct, event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund of any fee that may have been levied.
+
 
 ### Conflict resolution
 
 The conflict resolution policy for the ResBaz community promotes open communication and collaboration, encouraging members to address conflicts respectfully and seek resolution through mediation or arbitration if necessary, with the ultimate goal of maintaining a harmonious community environment.
 
-Please see our [official conflict resolution policy] within our code of conduct.
 
 ### Intellectual property
 
@@ -102,7 +115,7 @@ ResBaz committees are either standing or ad-hoc. Ad-hoc committees are charged b
 
 ### Formation of ad-hoc committees
 
-The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on ad-hoc committees.
+The formation process may involve open calls for volunteers and nominations by the executive committee. Interested members of ResBaz with willingness to contribute will be accepted on ad-hoc committees. Contact ResBaz committees by email with the following structure: **ResBazAZ+CommiteeName[at]gmail.com**. The executive committee can be reached at **ResBazAZ[at]gmail.com**
 
 ### Operations
 
@@ -120,23 +133,21 @@ The executive committee can be terminated by unanimous vote of all non-executive
 
 The executive committee, made up of current members of all other standing committees, organizes the ResBaz community and guides strategic planning. Thus, the executive committee is sensitive to the needs and wishes of each standing committee, while also containing non-partisan ResBaz community members from other event committees.
 
-The current executive committee is made up of [names], [names], [name], [names], and [names].
-
 See ResBaz Leadership below for more detail on tasks overseen by the executive committee.
 
 #### Conference committee
 
 The conference committee is responsible for planning the conference, focusing on the ResBaz mission within planning conversations.
 
-The conference committee is made up of [names], [names], [names], and [names].
+Email: ResBazAZ+Conference[at]gmail.com
 
 #### Coffee & Code committee
 
-The Coffee & Code committee is made up of [names], [names], [names], and [names].
+Email: ResBazAZ+CoffeeAndCode[at]gmail.com
 
 #### Hacky Hour committee
 
-The Hacky Hour committee is made up of [names], [names], [names], and [names].
+Email: ResBazAZ+HackyHour[at]gmail.com
 
 ## ResBaz Leadership
 
