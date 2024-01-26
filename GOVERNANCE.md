@@ -149,6 +149,10 @@ Email: ResBazAZ+CoffeeAndCode[at]gmail.com
 
 Email: ResBazAZ+HackyHour[at]gmail.com
 
+| **NAME** | **Github Username** |
+| --- | --- |
+| Julian | @julianpistorius |
+
 ## ResBaz Leadership
 
 ### Roles and responsibilities
