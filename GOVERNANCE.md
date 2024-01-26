@@ -149,6 +149,8 @@ Email: ResBazAZ+CoffeeAndCode[at]gmail.com
 
 Email: ResBazAZ+HackyHour[at]gmail.com
 
+- Julian Pistorius (resbaz[at]julianpistorius.com)
+
 ## ResBaz Leadership
 
 ### Roles and responsibilities
