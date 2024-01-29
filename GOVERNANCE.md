@@ -152,6 +152,7 @@ Email: ResBazAZ+HackyHour[at]gmail.com
 | **NAME** | **Github Username** |
 | --- | --- |
 | Julian | @julianpistorius |
+| Ryan | @rbartelme |
 
 ## ResBaz Leadership
 
