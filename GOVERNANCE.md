@@ -141,6 +141,10 @@ The conference committee is responsible for planning the conference, focusing on
 
 Email: ResBazAZ+Conference[at]gmail.com
 
+| **NAME** | **Github Username** |
+| --- | --- |
+| Heidi | @hidyverse |
+
 #### Coffee & Code committee
 
 Email: ResBazAZ+CoffeeAndCode[at]gmail.com
