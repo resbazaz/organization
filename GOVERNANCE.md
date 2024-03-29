@@ -148,6 +148,9 @@ Email: ResBazAZ+Conference[at]gmail.com
 #### Coffee & Code committee
 
 Email: ResBazAZ+CoffeeAndCode[at]gmail.com
+| **NAME** | **Github Username** |
+| --- | --- |
+| Val | @val-pf |
 
 #### Hacky Hour committee
 
